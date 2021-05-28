@@ -1,10 +1,10 @@
 # BERTSummarizer
-A web application that summarises text in a variety of ways. _ _
-For our webapp, we used the flask framework. _ _
-In an NLP project, the Python framework comes in handy. _ _   
+A web application that summarises text in a variety of ways.__
+For our webapp, we used the flask framework.__
+In an NLP project, the Python framework comes in handy.__   
 Text Summary__
 URL Summary__
-Summarize PDF
-Copare Different Summarization models
-Calculate ROUGE Scores
+Summarize PDF__
+Copare Different Summarization models__
+Calculate ROUGE Scores__
 
